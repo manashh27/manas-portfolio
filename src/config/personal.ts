@@ -3,7 +3,7 @@ export const PERSONAL = {
   title: "20 • Engineer • Developer",
   location: "Nagpur, India",
   email: "manasvk2707@gmail.com",
-  github: "https://github.com/solvfpz",
+  github: "https://github.com/manashh27",
   linkedin: "https://www.linkedin.com/in/manaskale27/",
 } as const;
 
